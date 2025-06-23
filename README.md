@@ -17,10 +17,14 @@ A simple quote generator web app that displays motivational and self-love quotes
 I'm currently exploring frontend development and this is one of my first hands-on projects. I wanted to build something simple, visual, and meaningful — and what better than a quote generator to combine good vibes with good code ✨
 
 ---
+## Screenshots
 
-## Screenshot
+### 🖼Initial View
+![Initial View](screenshot1.png)
 
-![Screenshot](screenshot.png)
+### After Clicking "Get Quote"
+![Quote Displayed](screenshot2.png)
+
 
 
 
