@@ -19,7 +19,7 @@ I'm currently exploring frontend development and this is one of my first hands-o
 ---
 ## Screenshots
 
-### 🖼Initial View
+### Initial View
 ![Initial View](screenshot1.png)
 
 ### After Clicking "Get Quote"
